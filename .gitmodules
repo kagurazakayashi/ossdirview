@@ -1,0 +1,3 @@
+[submodule "frontend/src/yq"]
+	path = frontend/src/yq
+	url = https://github.com/kagurazakayashi/yq.git

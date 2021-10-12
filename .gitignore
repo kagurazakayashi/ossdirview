@@ -1,0 +1,8 @@
+.DS_Store
+apk/*
+**/.font-spider/*
+*.psd
+index/qrcode.min.js
+**/node_modules
+frontend/index.html
+frontend/dist/*
