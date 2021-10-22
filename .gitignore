@@ -9,3 +9,6 @@ frontend/dist/*
 config.json
 build_linux.bat
 docker/
+ossdirview_backend
+*.xz
+*.7z
