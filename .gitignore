@@ -6,3 +6,6 @@ index/qrcode.min.js
 **/node_modules
 frontend/index.html
 frontend/dist/*
+config.json
+build_linux.bat
+docker/
